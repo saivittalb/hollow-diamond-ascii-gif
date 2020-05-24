@@ -8,5 +8,5 @@
 ![PatternOutput](https://user-images.githubusercontent.com/36305142/51988334-6e0f4900-24ca-11e9-99ed-7f36f290b024.png)
 ![EndOutput](https://user-images.githubusercontent.com/36305142/51988340-6f407600-24ca-11e9-85d6-285dbd276663.png)
 
-<p align="center"> Copyright (c) 2018 Sai Vittal B. All rights reserved.</p>
+<p align="center"> Copyright (c) 2019 Sai Vittal B. All rights reserved.</p>
 <p align="center"> Made with ❤ by <a href="https://github.com/saivittalb">Sai Vittal B</a></p>
